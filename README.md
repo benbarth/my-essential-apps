@@ -14,7 +14,7 @@
 ## Mac
 ### General
 * [iTerm2](https://www.iterm2.com/)
-* [Karabiner](https://github.com/tekezo/Karabiner) (toggle terminal using CAPSLOCK key)
+* [Karabiner](https://github.com/tekezo/Karabiner) ([toggle the terminal using the CAPSLOCK key](terminal.md))
 * [GPG Suite](https://gpgtools.org/)
 * [Flycut](https://github.com/TermiT/Flycut) (Clipboard Manager)
 * [Magnet](http://magnet.crowdcafe.com/)
