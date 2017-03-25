@@ -20,14 +20,14 @@
 ### Terminal
 * [iTerm2](https://www.iterm2.com/)
 * [oh my zsh](http://ohmyz.sh/)
-* [Karabiner](https://github.com/tekezo/Karabiner) ([used to toggle the terminal using the CAPSLOCK key](terminal.md))
+* [Karabiner](https://github.com/tekezo/Karabiner) (I use this to [toggle the terminal using the CAPSLOCK key](terminal.md))
 
 ### Tools
 * [GPG Suite](https://gpgtools.org/)
 * [Flycut](https://github.com/TermiT/Flycut) (Clipboard Manager)
 * [Magnet](http://magnet.crowdcafe.com/) (Window manager)
 * [Gestimer](http://maddin.io/gestimer/) (Timer/Reminders)
-* I used to be a huge fan of [Alfred](https://www.alfredapp.com/). Now I tend to use Spotlight Search and [Shortcuts](https://github.com/siong1987/shortcuts)
+* I used to be a huge fan of [Alfred](https://www.alfredapp.com/). Now I tend to use Spotlight Search and [Shortcuts](https://github.com/siong1987/shortcuts).
 
 
 ## Mobile
