@@ -1,5 +1,6 @@
 # Essential Apps
 
+[![Build Status](https://travis-ci.org/benbarth/essential-apps.svg?branch=master)](https://travis-ci.org/benbarth/essential-apps)
 
 ## Desktop
 
