@@ -23,7 +23,6 @@
 * I used to be a huge fan of [Alfred](https://www.alfredapp.com/). Now I tend to use Spotlight Search and [Shortcuts](https://github.com/siong1987/shortcuts).
 * [Bear](http://www.bear-writer.com/) (Notes)
 * [Flycut](https://github.com/TermiT/Flycut) (Clipboard Manager)
-* [Magnet](http://magnet.crowdcafe.com/) (~$5) (Window manager)
 * [Gestimer](http://maddin.io/gestimer/) (~$4) (Timer/Reminders)
 
 ### Terminal
