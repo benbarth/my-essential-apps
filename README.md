@@ -11,7 +11,7 @@
 
 ### Development
 * [SourceTree](https://www.sourcetreeapp.com/)
-* [p4merge](https://www.perforce.com/product/components/perforce-visual-merge-and-diff-tools) (Diff Tool)
+* [P4Merge](https://www.perforce.com/products/helix-core-apps/merge-diff-tool-p4merge) (Diff Tool)
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 * [Postman](https://www.getpostman.com/)
 
