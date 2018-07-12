@@ -26,7 +26,7 @@
 
 ### Terminal
 * [iTerm2](https://www.iterm2.com/)
-* [oh my zsh](http://ohmyz.sh/)
+* [oh my zsh](https://ohmyz.sh/)
 * [Karabiner](https://github.com/tekezo/Karabiner) (I use this to [toggle the terminal using the CAPSLOCK key](terminal.md))
 
 
