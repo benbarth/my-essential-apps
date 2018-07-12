@@ -2,11 +2,12 @@
 
 [![Build Status](https://travis-ci.org/benbarth/essential-apps.svg?branch=master)](https://travis-ci.org/benbarth/essential-apps)
 
-## Desktop
+
+##  Desktop
 
 ### General
 * [Google Chrome](https://www.google.com/chrome/)
-* [Visual Studio Code](https://code.visualstudio.com/) or [Atom](https://atom.io/) (Text/Code Editor)
+* [Visual Studio Code](https://code.visualstudio.com/) (Text/Code Editor)
 * [Spotify](https://www.spotify.com/ca-en/download/other/)
 
 ### Development
@@ -16,26 +17,22 @@
 * [Postman](https://www.getpostman.com/)
 
 
-## Mac
+##  Mac
 
 ### General
 * [GPG Suite](https://gpgtools.org/)
-* I used to be a huge fan of [Alfred](https://www.alfredapp.com/). Now I tend to use Spotlight Search and [Shortcuts](https://github.com/siong1987/shortcuts).
-* [Bear](http://www.bear-writer.com/) (Notes)
+* [Gestimer](http://maddin.io/gestimer/) (💰 ~$4) (Timer/Reminders)
 * [Flycut](https://github.com/TermiT/Flycut) (Clipboard Manager)
-* [Gestimer](http://maddin.io/gestimer/) (~$4) (Timer/Reminders)
 
 ### Terminal
 * [iTerm2](https://www.iterm2.com/)
 * [oh my zsh](http://ohmyz.sh/)
 * [Karabiner](https://github.com/tekezo/Karabiner) (I use this to [toggle the terminal using the CAPSLOCK key](terminal.md))
 
-### Tools
 
-
-## Mobile
+##  Mobile
 
 ### Android
-* Spotify
-* Fenix (~$5) (Twitter client)
-* Pocket Casts (~$4)
+* [Pocket Casts](http://pocketcasts.com/) (💰 ~$4)
+* [Top GitHub](https://github.com/mmazzarolo/top-github) (GitHub Trending)
+* [FastHub](https://github.com/k0shk0sh/FastHub) (GitHub Client)
