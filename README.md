@@ -33,6 +33,6 @@
 ##  Mobile
 
 ### Android
-* [Pocket Casts](http://pocketcasts.com/) (💰 ~$4)
+* [Pocket Casts](https://pocketcasts.com/) (💰 ~$4)
 * [Top GitHub](https://github.com/mmazzarolo/top-github) (GitHub Trending)
 * [FastHub](https://github.com/k0shk0sh/FastHub) (GitHub Client)
