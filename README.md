@@ -1,6 +1,6 @@
 # Essential Apps
 
-[![Build Status](https://travis-ci.org/benbarth/essential-apps.svg?branch=master)](https://travis-ci.org/benbarth/essential-apps)
+[![Build Status](https://api.travis-ci.org/benbarth/essential-apps.svg?branch=master)](https://travis-ci.org/benbarth/essential-apps)
 
 
 ##  Desktop
@@ -33,6 +33,6 @@
 ##  Mobile
 
 ### Android
-* [Pocket Casts](https://pocketcasts.com/) (💰 ~$4)
+* [Pocket Casts](https://www.pocketcasts.com) (💰 ~$4)
 * [Top GitHub](https://github.com/mmazzarolo/top-github) (GitHub Trending)
 * [FastHub](https://github.com/k0shk0sh/FastHub) (GitHub Client)
